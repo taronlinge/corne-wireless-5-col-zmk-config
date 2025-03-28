@@ -44,7 +44,7 @@
                         bindings = <
    &none &none &none &none  &none    &none        &kp DQT   &kp LPAR &kp RPAR  &kp SQT
    &none &none &none &none  &none    &kp KP_MINUS &kp UNDER &kp LBRC &kp RBRC  &kp PIPE
-   &none &none &none &none  &none    &kp KP_PLUS  &kp EQUAL &kp LBKT &kp RBKT  &kp BLSH
+   &none &none &none &none  &none    &kp KP_PLUS  &kp EQUAL &kp LBKT &kp RBKT  &kp BSLH
                &none &trans &none    &kp GRAVE    &kp TILDE &none
                         >;
                 };
