@@ -13,6 +13,9 @@
 &mt {
     quick-tap-ms = <150>;
 };
+&lt {
+    quick-tap-ms = <150>;
+};
 
 / {
     chosen {
