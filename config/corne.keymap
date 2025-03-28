@@ -42,10 +42,10 @@
                 symbols1 {
                         display-name = "symbols1";
                         bindings = <
-   &none &none &none &none  &none    &kp DQT &kp AMPS  &kp KP_MULTIPLY &kp LPAR  &kp RPAR
-   &none &none &none &none  &none    &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR  &kp RPAR
-   &none &none &none &none  &none    &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR  &kp RPAR
-               &none &trans &none    &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR  &kp RPAR
+   &none &none &none &none  &none    &none        &kp DQT   &kp LPAR &kp RPAR  &kp SQT
+   &none &none &none &none  &none    &kp KP_MINUS &kp UNDER &kp LBRC &kp RBRC  &kp PIPE
+   &none &none &none &none  &none    &kp KP_PLUS  &kp EQUAL &kp LBKT &kp RBKT  &kp BLSH
+               &none &trans &none    &kp GRAVE    &kp TILDE &none
                         >;
                 };
 
